@@ -1,4 +1,5 @@
 # energy_consumption_analysis_using_powerBI
+- Clone this repository and run the **ALL_DETAILS.ipynb** notebook to get **all_details_2011-20.csv**..This csv file is used to build the PowerBI Dashboard.
 
 ## INSIGHTS:
 - The dataset consists of  the GHG emissions and the Energy consumption by various sectors, Organizations, etc.
